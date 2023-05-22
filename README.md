@@ -5,6 +5,7 @@ It uses features like no of pregnancies, weight, wge, insulin level, BMI etc to 
 The model has an auc value of 0.86. The model was then deployed by using streamlit library.
 NB: The project is meant for academic purposes and should not be used in real world without the consulation of the doctor.
 
+### [Video walkthrough (CLICK ME)](https://drive.google.com/file/d/11OvdEoAIF7W5PIn9TIJb1U7EFfkOixK8/view?usp=sharing)
 
 ## Usage
 
